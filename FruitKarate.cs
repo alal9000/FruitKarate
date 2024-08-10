@@ -24,7 +24,6 @@ namespace MyGame
 			{
 				f = new ToughFruit();
 			}
-
 			_fruit.Add(f);
 		}
 
